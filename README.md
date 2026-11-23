@@ -1,5 +1,4 @@
 # TED-Algoritmo-N2
-Reserva de Hotel
 # Sistema de Reserva de Hotel
 
 Trabalho da disciplina de **Algoritmos** do curso de **Engenharia de Software**.
@@ -79,8 +78,8 @@ Na versão de console, cada funcionalidade é uma opção do menu. Na interface 
 **Pré-requisito:** [.NET SDK](https://dotnet.microsoft.com/download) instalado (versão 8).
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+[cd TED-Algoritmo-N2] https://github.com/alicerosaa/TED-Algoritmo-N2.git
+cd alicerosaa/TED-Algoritmo-N2
 ```
 
 **Versão de console:**
